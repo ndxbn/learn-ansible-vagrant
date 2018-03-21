@@ -1,10 +1,14 @@
 # learn-ansible-vagrant
 learning Ansible on Vagrant
 
+`vagrant up` ってやるだけで、ゲストマシンのセットアップが完了する。
+
+1回やるごとに、 `vagrant destroy -f` して、ゲストマシンを消し去る。
+
 ## checklist
 
-- [ ] https://www.vagrantup.com/docs/provisioning/ansible_intro.html
-- [ ] https://www.vagrantup.com/docs/provisioning/ansible_common.html
+- [x] https://www.vagrantup.com/docs/provisioning/ansible_intro.html
+- [x] https://www.vagrantup.com/docs/provisioning/ansible_common.html
 - [ ] http://docs.ansible.com/ansible/latest/intro.html
 - [ ] http://docs.ansible.com/ansible/latest/playbooks_best_practices.html
 - [ ] http://docs.ansible.com/ansible/latest/playbooks.html
