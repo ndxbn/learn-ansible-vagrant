@@ -9,8 +9,8 @@ learning Ansible on Vagrant
 
 - [x] https://www.vagrantup.com/docs/provisioning/ansible_intro.html
 - [x] https://www.vagrantup.com/docs/provisioning/ansible_common.html
-- [ ] http://docs.ansible.com/ansible/latest/intro.html
-- [ ] http://docs.ansible.com/ansible/latest/playbooks_best_practices.html
+- [x] http://docs.ansible.com/ansible/latest/intro.html
+- [x] http://docs.ansible.com/ansible/latest/playbooks_best_practices.html
 - [ ] http://docs.ansible.com/ansible/latest/playbooks.html
 - [ ] http://docs.ansible.com/ansible/latest/playbooks_special_topics.html
 - [ ] http://docs.ansible.com/ansible/latest/modules.html
